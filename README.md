@@ -130,5 +130,7 @@ The state diagrams and plots for Q1.6, Q2.1 and Q2.2 are also generated in their
 
 ## Author
 Marko Bingulac, 6730531 , MSc Systems and Control, TU Delft
-Saurav Avachat, 6654762 , MSc Systems and Control, TU Delft
+
+Saurav Kishor Avachat, 6654762 , MSc Systems and Control, TU Delft
+
 Course: Modelling of Dynamical Systems, Mini Project 2026
